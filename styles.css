@@ -1,6 +1,7 @@
 body{
     color: white;
     background: black;
+    margin: 0px
 }
 
 header {
@@ -8,4 +9,7 @@ header {
     padding: 20px;
     font-size: 32px;
     color: rgb(235, 247, 17);
+}
+section {
+    background:rgb(226, 209, 30);
 }
