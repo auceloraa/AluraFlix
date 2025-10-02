@@ -16,9 +16,9 @@ section {
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
-    justify-items: center;
+    justify-content: center;
 }
 
 .chamada-texto{
-margin-right: 20px;
+margin-right: 5%;
 }
