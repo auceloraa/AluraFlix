@@ -40,3 +40,8 @@ img {
     display: flex;
     overflow-x: auto;
 }
+
+.categoria{
+    padding-left: 20px;
+    padding-right: 20px;
+}
